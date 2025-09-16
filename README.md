@@ -1,1 +1,1 @@
-# sAMAKIcASH-pOc
+# SamakiCash-PoC
